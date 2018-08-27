@@ -1,3 +1,5 @@
+<p align="center"><img src="http://fit.hcmute.edu.vn//Resources/imagesPortlet/28a0195a-fadd-4737-8493-21da6fe181dd/banner.jpg"></p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
