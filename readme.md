@@ -11,6 +11,6 @@
 
 ## About Project
 
-Project gồm 3 trang cho các role: **Admin, Trạm, Đội chơi**
+Project gồm 3 trang cho các role: **Admin, Trạm, Đội chơi**<br/>
 Data mẫu và tài khoản xem trong thư mục database/seed/....
 Thân!
